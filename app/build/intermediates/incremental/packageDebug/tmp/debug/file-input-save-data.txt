@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 06 00:00:22 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/Akash/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
